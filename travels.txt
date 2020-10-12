@@ -1,0 +1,3 @@
+Here's a list of all the countries I've been to in the last 3 years
+var vacation = [southKorea, australia, prc, japan];
+Looking forward to more!~
